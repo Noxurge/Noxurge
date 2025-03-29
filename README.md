@@ -67,9 +67,8 @@
         <img src="https://academy.hackthebox.com/storage/badges/60fc416b5eec425a6451aeb1e50d14e4/logo.png" alt="Cyber Rookie 365" width="100" height="100"/>
     <hr>
 </div>
-<hr>
 <div align="center">
   <a href="https://github.com/Noxurge">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noxurge&theme=chartreuse-dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noxurge&theme=chartreuse-dark" alt="GitHub Streak" /></a><br>
   <img height="180vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noxurge&layout=compact&langs_count=7&theme=chartreuse-dark&include_all_commits=true"/>
-</div><br>
+</div><hr>
