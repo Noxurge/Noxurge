@@ -37,6 +37,12 @@
         <img src="https://assets.tryhackme.com/img/badges/3million.svg" alt="3 Million Legend" width="100" height="100"/>
         <img src="https://assets.tryhackme.com/img/badges/cyberdefenceframework.svg" alt="Skilled Navigator" width="100" height="100"/>
         <img src="https://assets.tryhackme.com/img/badges/cyberthreatintellegenceblue.svg" alt="Friday Fixer" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/streak500.svg" alt="500 Day Streak" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/digitalforensicsandincidentresponse.svg" alt="Handle the Disgruntled" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/shieldapprentice.svg" alt="Shield Apprentice" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/swordapprentice.svg" alt="Sword Apprentice" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/careerready.svg" alt="Cyber Ready" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" alt="Advent of Cyber 2024" width="100" height="100"/>
       </p><hr>
     <h3> Hack The Box </h3>
     <hr>
