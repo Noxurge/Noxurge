@@ -1,6 +1,6 @@
-<h1 align="center">< Hello, Friend! /></h1>
-<div align=center>
-  <img src= https://media1.tenor.com/m/5fXOP8eurtkAAAAC/mr-robot.gif>
+<h1 align="center">⟬ Hello, Friend! ⟭</h1>
+<div align="center">
+  <img src=./nox_gif.gif>
 <div/>
 <hr>
 <div align="left">
@@ -11,9 +11,19 @@
 </div>
 <hr>
 <div align="left">
-  <h1> Badges </h1>
-    <h3> TryHackMe </h3>
-      <p align="center" > 
+  <h1>Profiles</h1>
+  <p>→ TryHackMe - https://tryhackme.com/p/Noxurge</p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Noxurge.png" alt="Nox THM" />
+  <p>→ Hack The Box - https://app.hackthebox.com/profile/1435164</p>
+  
+<div align="left">
+  <h1>Certifications</h1>
+    <p align="center">
+      <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100"/>
+      <img src="https://images.credly.com/size/340x340/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" alt="CompTIA PenTest+ ce Certification" width="100" height="100"/>
+  <h1>Badges</h1>
+    <h3 align="center">→ TryHackMe ←</h3>
+      <p align="center">
         <img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" alt="Mr. Robot" width="100" height="100"/>
         <img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" alt="Hash Cracker" width="100" height="100"/>
         <img src="https://assets.tryhackme.com/img/badges/burpsuite.svg" alt="Burp'ed" width="100" height="100"/>
@@ -44,11 +54,18 @@
         <img src="https://assets.tryhackme.com/img/badges/careerready.svg" alt="Cyber Ready" width="100" height="100"/>
         <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" alt="Advent of Cyber 2024" width="100" height="100"/>
       </p><hr>
-    <h3> Hack The Box </h3>
+    <h3 align="center">→ Hack The Box ←</h3>
+      <p align="center">
+        <img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Philomath" width="100" height="100"/>
+        <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Academician" width="100" height="100"/>
+        <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" alt="Our favorite seabird" width="100" height="100"/>
+        <img src="https://academy.hackthebox.com/storage/badges/crawl-walk-run.png" alt="Crawl, walk, run" width="100" height="100"/>
+        <img src="https://academy.hackthebox.com/storage/badges/your-white-belt-training-begins.png" alt="Your white belt training begins" width="100" height="100"/>
+        <img src="https://academy.hackthebox.com/storage/badges/4a11a1a1d810967184694662d629de2d/logo.png" alt="Panoptic" width="100" height="100"/>
+        <img src="https://academy.hackthebox.com/storage/badges/first-things-first.png" alt="First things first" width="100" height="100"/>
+        <img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" alt="Unwavering User" width="100" height="100"/>
+        <img src="https://academy.hackthebox.com/storage/badges/60fc416b5eec425a6451aeb1e50d14e4/logo.png" alt="Cyber Rookie 365" width="100" height="100"/>
     <hr>
-    <h3> AWS </h3>
-    <hr>
-    <h3> Cisco </h3>
 </div>
 <hr>
 <div align="center">
