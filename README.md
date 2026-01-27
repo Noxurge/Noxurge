@@ -54,19 +54,18 @@
         <img src="https://assets.tryhackme.com/img/badges/3million.svg" alt="3 Million Legend" width="100" height="100"/>
         <img src="https://assets.tryhackme.com/img/badges/cyberdefenceframework.svg" alt="Skilled Navigator" width="100" height="100"/>
         <img src="https://assets.tryhackme.com/img/badges/cyberthreatintellegenceblue.svg" alt="Friday Fixer" width="100" height="100"/>
-        <img src="https://tryhackme.com/img/badges/streak365.svg" alt="365 Day Streak" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/streak365.png" alt="365 Day Streak" width="100" height="100"/>
         <img src="https://assets.tryhackme.com/img/badges/streak500.svg" alt="500 Day Streak" width="100" height="100"/>
         <img src="https://assets.tryhackme.com/img/badges/digitalforensicsandincidentresponse.svg" alt="Handle the Disgruntled" width="100" height="100"/>
-        <img src="https://assets.tryhackme.com/img/badges/shieldapprentice.svg" alt="Shield Apprentice" width="100" height="100"/>
-        <img src="https://assets.tryhackme.com/img/badges/swordapprentice.svg" alt="Sword Apprentice" width="100" height="100"/>
-        <img src="https://assets.tryhackme.com/img/badges/careerready.svg" alt="Cyber Ready" width="100" height="100"/>
-        <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" alt="Advent of Cyber 2024" width="100" height="100"/>
-        <img src="https://tryhackme.com/img/badges/shieldapprentice.svg" alt="Shield Apprentice" width="100" height="100"/>
-        <img src="https://tryhackme.com/img/badges/soc-sim-first-alert-closed.svg" alt="First alert close" width="100" height="100"/>
-        <img src="https://tryhackme.com/img/badges/soc-sim-first-scenario-completed.svg" alt="First scenario completed" width="100" height="100"/>
-        <img src="https://tryhackme.com/img/badges/soc-sim-100-percent-true-positive-rate.svg" alt="100% true positive rate" width="100" height="100"/>
-        <img src="https://tryhackme.com/img/badges/hack2win.svg" alt="Raffle Royalty" width="100" height="100"/>
-        <img src="https://tryhackme.com/img/badges/streak750.svg" alt="750 Day Streak" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/shieldapprentice.png" alt="Shield Apprentice" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/swordapprentice.png" alt="Sword Apprentice" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/careerready.png" alt="Cyber Ready" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/aoc5.png" alt="Advent of Cyber 2024" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/soc-sim-first-alert-closed.png" alt="First alert close" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/soc-sim-first-scenario-completed.png" alt="First scenario completed" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/soc-sim-100-percent-true-positive-rate.png" alt="100% true positive rate" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/hack2win.png" alt="Raffle Royalty" width="100" height="100"/>
+        <img src="https://assets.tryhackme.com/img/badges/streak750.png" alt="750 Day Streak" width="100" height="100"/>
       </p><hr>
     <h3 align="center">→ Hack The Box ←</h3>
       <p align="center">
